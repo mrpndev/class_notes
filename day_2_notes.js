@@ -42,8 +42,13 @@ console.log(myNum + myStr)  // concatenates int with the string and turns it int
 // Staging files for a commit
 // git status tells you the status of your repository
 // git add <file_name> OR git add . to add all of the files inside the folder that you are in and stage them for a commit
+
+// To commit your changes, run the folllowing command:
 // git commit -m "Your commit message here"
-// 
+
+// To view the commit:
+// git log
+// Shows us commit hash, branch name, commit message, and other metadata
 
 
 
